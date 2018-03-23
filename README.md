@@ -1,3 +1,12 @@
 # Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
+王之財寶(Gate of Babylon)
+等級：E～A++
+類別：對人寶具
+範圍：－
+主條目：王之財寶
+說明：吉爾伽美什擁有的連向「黃金之都」鑰匙狀的劍。與寶物庫的空間相連，可以自由地取出在收藏在其中的寶物。等級為E～A++，意指放入到寶物庫的道具的等級。若果寶物庫未放入像樣的財寶，就並不是那麼有用的寶具。
+「收集了人間所有寶物」是吉爾伽美什的口頭禪，不過這並不是單純的比喻。吉爾伽美什將他的時代里產生的，所有技術的雛形收集起來，收歸己有。與其說裡面是吉爾伽美什貯藏下來的財寶，不如說是「人類智慧的原典」其本身。
+
+阅读更多：吉尔伽美什(Fate)（https://zh.moegirl.org/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80(Fate)）
+本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。
